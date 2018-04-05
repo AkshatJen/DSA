@@ -1,4 +1,4 @@
-// 
+// program to create two vectors from first given numbers n such that the difference between the sum of them is minimum
 
 import java.io.* ;
 import java.util.*;
